@@ -1,4 +1,4 @@
-d3.json("../../samples.json").then((data) => {
+d3.json("samples.json").then((data) => {
 
     function init(index) {
 
