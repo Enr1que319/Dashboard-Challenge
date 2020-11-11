@@ -35,4 +35,3 @@ The final dashboard look like this screenshot:
 
 [![](img/1.png)]() 
 
-https://enr1que319.github.io/Dashboard-Challenge/
