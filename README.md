@@ -1,6 +1,6 @@
 # Belly-Button-Biodiversity
 
-[![](img/1.png)]() 
+[![](img/bacteria.jpg)]() 
 
 
 https://enr1que319.github.io/Dashboard-Challenge/
