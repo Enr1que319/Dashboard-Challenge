@@ -19,6 +19,20 @@ The following tools were used to do the web page
 
 ## Analysis
 
+Horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
+[![](img/2.jpg)]() 
+
+Bubble chart that displays each sample.
+
+[![](img/3.jpg)]() 
+
+Table with individual's demographic information obtained from metadata JSON object
+
+[![](img/4.jpg)]() 
+
+The final dashboard look like this screenshot:
+
+[![](img/1.jpg)]() 
 
 https://enr1que319.github.io/Dashboard-Challenge/
